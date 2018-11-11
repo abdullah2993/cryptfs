@@ -1,7 +1,6 @@
 # cryptfs
 
-A toy encrypted file system for windows using dokan
-
+A toy encrypted file system for windows in go using dokan
 ## Usage
 ```
 Usage of cryptfs.exe:
@@ -14,5 +13,5 @@ Usage of cryptfs.exe:
 ```
 
 ### Issues
-Small files and Move
-panic everywhere :D
+- Small files and Move
+- panic everywhere :D
