@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/JonathanLogan/encfile"
+	"github.com/abdullah2993/encfile"
 	"github.com/keybase/kbfs/dokan"
 	"github.com/keybase/kbfs/dokan/winacl"
 )

@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"github.com/JamesHovious/w32"
-	"github.com/JonathanLogan/encfile"
+	"github.com/abdullah2993/encfile"
 	"github.com/keybase/kbfs/dokan"
 )
 
